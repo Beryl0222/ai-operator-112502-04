@@ -1,0 +1,7 @@
+{
+  "name": "embedding_shards",
+  "version": "1",
+  "description": "分片词表、重复 id、禁用 id 和版本资料。",
+  "input_file": "data/input.json",
+  "implementation": "由项目使用者根据业务契约提供"
+}
